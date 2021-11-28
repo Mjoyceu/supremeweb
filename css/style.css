@@ -1,0 +1,17 @@
+body{
+    background: rgb(170, 116, 146);
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.theme{
+    position: relative;
+    background: rgb(218, 178, 216);
+    margin: 10px, 20px;
+    text-align: center;
+    font-size: 40px;
+}
+#at{
+    font-size: 15px;
+    color: rgb(21, 224, 89);
+}
